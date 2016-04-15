@@ -2,6 +2,7 @@ package dcll.aaou.MySimpleStack;
 
 /**
  * Created by root on 14/04/16.
+ * un commentaire
  */
 public class Item {
     private Object value;
